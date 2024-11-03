@@ -5,3 +5,4 @@ Features:
 - Regular text and line breaks
 - [Links](#)
 - Lists
+- Downloading the inputted Markdown as Markdown.md
